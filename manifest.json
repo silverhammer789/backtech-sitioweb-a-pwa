@@ -1,0 +1,28 @@
+{
+    "name": "#Backtech",
+    "short_name": "#BInnovation",
+    "description": "Bienvenid@s a #Backtech",
+    "background_color": "#2B2B2B",
+    "theme_color": "#F0DB4F",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [{
+            "src": "./img/Wallpapers/1.jpg",
+            "sizes": "1255x1255",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/Wallpapers/2.jpg",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/Wallpapers/3.jpg",
+            "sizes": "128x128",
+            "type": "image/png"
+        }
+    ]
+}
